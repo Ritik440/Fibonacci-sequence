@@ -1,4 +1,4 @@
-# Fibonacci-sequence
+# Fibonacci-sequence generator
 This repository contains a digital circuit to generate Fibonacci sequence.
 The circuit uses D-filp flop as storage element for the numbers. Say the sequence is denoted by f1, f2, f3, f4…. .
 The U1 stores the LSB of fi and U2 stores the MSB of fi while U3 and U4 stores the LSB and MSB respectively of fi+1 .
